@@ -1,0 +1,18 @@
+@font-face {
+  font-family: Humane;
+  src: url('./assets/Humane-Regular.ttf');
+}
+@font-face {
+  font-family: Bondoi;
+  src: url('./assets/Bodoni-seventytwo-itc-book-italic.ttf');
+}
+@font-face {
+  font-family: Neue;
+  src: url('./assets/HelveticaNeue-Light.ttf');
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  
